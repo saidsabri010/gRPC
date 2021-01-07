@@ -1,0 +1,53 @@
+syntax = "proto3";
+
+option csharp_namespace = "VateraEng2";
+
+package vatera;
+
+service Vatera {
+ rpc Login(User) returns (Session_Id) {}
+ rpc Logout(Session_Id) returns (Result) {}
+
+  rpc Add(Data) returns (Result) {}
+  rpc Delete(Data) returns(Result) {}
+
+  //rpc List(Empty) returns (stream DataBase){}
+  //rpc Bid(Product2) returns (Result){}
+
+  rpc Update(Data) returns(Result);
+  rpc Display(Empty) returns(stream Data2) {}
+}
+message Empty {
+}
+
+
+
+message User {
+  string name=1;
+  string passwd=2;
+}
+
+message Session_Id {
+  string id=1;
+}
+
+message Result {
+  string success=1;
+}
+
+message Data {
+   string name=1;
+   string model=2;
+   int32 price=3;
+   string uid=4;
+}
+
+message Data2 {
+  repeated Data items = 1;
+}
+
+//message Product2 {
+//string code=1;
+//int32 price=2;
+ //string uid=3;
+//}

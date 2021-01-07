@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1\Protos/Vatereng.cs \
+obj\Debug\netcoreapp3.1\Protos/VaterengGrpc.cs: Protos/vatereng.proto

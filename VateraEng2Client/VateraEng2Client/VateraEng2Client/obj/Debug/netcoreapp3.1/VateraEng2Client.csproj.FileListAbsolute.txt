@@ -1,0 +1,87 @@
+D:\!EKF\Interneteszkozei\progik\tesztelek\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\VateraEng2Client.exe
+D:\!EKF\Interneteszkozei\progik\tesztelek\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.csprojAssemblyReference.cache
+D:\!EKF\Interneteszkozei\progik\tesztelek\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.Form1.resources
+D:\!EKF\Interneteszkozei\progik\tesztelek\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.csproj.GenerateResource.cache
+D:\!EKF\Interneteszkozei\progik\tesztelek\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.AssemblyInfoInputs.cache
+D:\!EKF\Interneteszkozei\progik\tesztelek\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.AssemblyInfo.cs
+D:\!EKF\Interneteszkozei\progik\tesztelek\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\!EKF\Interneteszkozei\progik\tesztelek\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\!EKF\Interneteszkozei\progik\tesztelek\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\!EKF\Interneteszkozei\progik\tesztelek\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\!EKF\Interneteszkozei\progik\tesztelek\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.csproj.CopyComplete
+D:\!EKF\Interneteszkozei\progik\tesztelek\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\!EKF\Interneteszkozei\progik\tesztelek\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\VateraEng2Client.deps.json
+D:\!EKF\Interneteszkozei\progik\tesztelek\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\VateraEng2Client.runtimeconfig.json
+D:\!EKF\Interneteszkozei\progik\tesztelek\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\VateraEng2Client.runtimeconfig.dev.json
+D:\!EKF\Interneteszkozei\progik\tesztelek\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\VateraEng2Client.dll
+D:\!EKF\Interneteszkozei\progik\tesztelek\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\VateraEng2Client.pdb
+D:\!EKF\Interneteszkozei\progik\tesztelek\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.csproj.CoreCompileInputs.cache
+D:\!EKF\Interneteszkozei\progik\tesztelek\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.dll
+D:\!EKF\Interneteszkozei\progik\tesztelek\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.pdb
+D:\!EKF\Interneteszkozei\progik\tesztelek\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.genruntimeconfig.cache
+C:\Users\HP\Desktop\3rd semester\Service_oriented\VateraEng2Client\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\3rd semester\Service_oriented\VateraEng2Client\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.Form1.resources
+C:\Users\HP\Desktop\3rd semester\Service_oriented\VateraEng2Client\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\3rd semester\Service_oriented\VateraEng2Client\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\3rd semester\Service_oriented\VateraEng2Client\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.AssemblyInfo.cs
+C:\Users\HP\Desktop\3rd semester\Service_oriented\VateraEng2Client\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\3rd semester\Service_oriented\VateraEng2Client\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\VateraEng2Client\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.pdb
+C:\Users\HP\Desktop\3rd semester\Service_oriented\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\VateraEng2Client.exe
+C:\Users\HP\Desktop\3rd semester\Service_oriented\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\VateraEng2Client.deps.json
+C:\Users\HP\Desktop\3rd semester\Service_oriented\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\VateraEng2Client.runtimeconfig.json
+C:\Users\HP\Desktop\3rd semester\Service_oriented\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\VateraEng2Client.runtimeconfig.dev.json
+C:\Users\HP\Desktop\3rd semester\Service_oriented\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\VateraEng2Client.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\VateraEng2Client.pdb
+C:\Users\HP\Desktop\3rd semester\Service_oriented\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\VateraEng2Client\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.csproj.CopyComplete
+C:\Users\HP\Desktop\3rd semester\Service_oriented\VateraEng2Client\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.genruntimeconfig.cache
+C:\Users\HP\Desktop\3rd semester\Service_oriented\VateraEng2Client\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.Properties.Resources.resources
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\VateraEng2Client.exe
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\VateraEng2Client.deps.json
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\VateraEng2Client.runtimeconfig.json
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\VateraEng2Client.runtimeconfig.dev.json
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\VateraEng2Client.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\VateraEng2Client.pdb
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.Form1.resources
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.Properties.Resources.resources
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.AssemblyInfo.cs
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.csproj.CopyComplete
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.pdb
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\obj\Debug\netcoreapp3.1\VateraEng2Client.genruntimeconfig.cache
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\HP\Desktop\3rd semester\Service_oriented\gRPC\VateraEng2Client\VateraEng2Client\VateraEng2Client\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
